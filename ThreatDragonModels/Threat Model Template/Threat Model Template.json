@@ -3,11 +3,7 @@
     "title": "Threat Model Template"
   },
   "detail": {
-    "contributors": [
-      {
-        "name": "Patricia Javier"
-      }
-    ],
+    "contributors": [],
     "diagrams": [
       {
         "title": "Data Flow Diagram",
