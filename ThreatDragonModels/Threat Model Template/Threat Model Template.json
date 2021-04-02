@@ -1,6 +1,7 @@
 {
   "summary": {
-    "title": "Threat Model Template"
+    "title": "Threat Model Template",
+    "owner": "Gabriel Marcelo"
   },
   "detail": {
     "contributors": [
