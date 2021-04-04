@@ -1091,6 +1091,122 @@
                   "class": "connection hasNoOpenThreats isInScope"
                 }
               }
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 1088,
+                "y": 287
+              },
+              "target": {
+                "x": 1203,
+                "y": 161
+              },
+              "vertices": [
+                {
+                  "x": 1065,
+                  "y": 231
+                },
+                {
+                  "x": 1103,
+                  "y": 166
+                },
+                {
+                  "x": 1155,
+                  "y": 142
+                }
+              ],
+              "id": "48d0e40f-4d4d-48b7-b4ab-51ab801b455d",
+              "z": 35,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 811,
+                "y": 460
+              },
+              "target": {
+                "x": 981,
+                "y": 451
+              },
+              "vertices": [
+                {
+                  "x": 849,
+                  "y": 396
+                },
+                {
+                  "x": 939,
+                  "y": 390
+                }
+              ],
+              "id": "d39b90ca-d541-4a2d-942f-58303f2703c1",
+              "z": 36,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 124,
+                "y": 253
+              },
+              "target": {
+                "x": 205,
+                "y": 392
+              },
+              "vertices": [
+                {
+                  "x": 205,
+                  "y": 252
+                },
+                {
+                  "x": 240,
+                  "y": 328
+                }
+              ],
+              "id": "5502c3d7-7cc5-42e7-9c3b-1444ea5c3fce",
+              "z": 37,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 301,
+                "y": 483
+              },
+              "target": {
+                "x": 468,
+                "y": 403
+              },
+              "vertices": [
+                {
+                  "x": 289,
+                  "y": 447
+                },
+                {
+                  "x": 301,
+                  "y": 394
+                },
+                {
+                  "x": 338,
+                  "y": 357
+                },
+                {
+                  "x": 389,
+                  "y": 344
+                },
+                {
+                  "x": 438,
+                  "y": 359
+                }
+              ],
+              "id": "c262a17a-89d8-4457-9f2c-d75ff3028f9f",
+              "z": 38,
+              "attrs": {}
             }
           ]
         },
