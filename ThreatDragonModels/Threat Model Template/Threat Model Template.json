@@ -544,7 +544,7 @@
                   "class": "element-shape hasNoOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "Regex"
+                  "text": "Regular\nExpression"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
