@@ -1009,7 +1009,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "authorizes\nadministrator's\ncredentials",
+                      "text": "authorized\nadministrator's\ncredentials",
                       "font-weight": "400",
                       "font-size": "small"
                     }
